@@ -1,5 +1,5 @@
 ### Olá, me chamo Marcelo Isidoro
-tenho 23 anos, atualmente estou cursando Técnico em Desenvolvimento de Sistema no SENAC desde 2023 como FullStack. Sempre tive uma grande facilidade na área da Tecnologia e estou sempre em busca de me aprimimorar e ampliando meus conhecimentos na área de desenvolvimento.
+tenho 23 anos, atualmente estou cursando Técnico em Desenvolvimento de Sistema no SENAC desde 2023 como FullStack. Sempre tive uma grande facilidade na área da Tecnologia e estou sempre em busca de me aprimimorar e ampliar meus conhecimentos na área de desenvolvimento.
 
 <div>
   <a href="https://www.instagram.com/srisidoro?igsh=aDdtaDI2MnBzODNv target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
@@ -42,12 +42,4 @@ Interested in
 <img align="center" alt="Dev_NODE" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="center" alt="Dev_SAAS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
-</div>
-
-##
-
-<div>
-
-  ![Snake animation](https://github.com/Mateus-Batista12/Isidoro-D/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
