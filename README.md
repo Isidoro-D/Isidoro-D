@@ -1,5 +1,5 @@
 ### Olá, me chamo Marcelo Isidoro
-tenho 23 anos, atualmente estou cursando Técnico em Desenvolvimento de Sistema no SENAC desde 2023 como FullStack. Sempre tive uma grande facilidade na área da Tecnologia e estou sempre em busca de me aprimimorar e ampliar meus conhecimentos na área de desenvolvimento.
+tenho 23 anos, atualmente estou cursando Técnico em Desenvolvimento de Sistema no SENAC desde 2023 como FullStack. Sempre tive uma grande facilidade na área da Tecnologia e estou sempre em busca de me aprimorar e ampliar meus conhecimentos na área de desenvolvimento.
 
 <div>
   <a href="https://www.instagram.com/srisidoro?igsh=aDdtaDI2MnBzODNv target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
@@ -10,8 +10,8 @@ tenho 23 anos, atualmente estou cursando Técnico em Desenvolvimento de Sistema 
 
 <div align="center">
   <a href="https://github.com/Isidoro-D">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isidoro-D&theme=blue-green"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isidoro-D&theme=blue-green"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Isidoro-D&theme=blue-green"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isidoro-D&amp;layout=compact&amp;langs_count=8&amp;card_width=435&amp;theme=dark&amp;border-radius=9.5">
 </div>
     
 ##
@@ -40,6 +40,7 @@ Interested in
 <div style="display: inline_block"><br>
 <img align="center" alt="Dev_NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="Dev_NODE" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="Dev_SAAS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img align="center" alt="Dev_Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img align="center" alt="Dev_SAAS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 
 </div>
